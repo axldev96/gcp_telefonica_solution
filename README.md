@@ -35,3 +35,6 @@ Debe recopilar datos de comportamiento para posterior análisis y reporting en t
 ## Escalabilidad
 
 La solución debe ser escalable y elástica.
+
+# Arquitectura propuesta
+![](./architecture_diagram.png)
